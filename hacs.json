@@ -3,7 +3,5 @@
     "country": "FR",
     "hacs": "2.0.1",
     "homeassistant": "2024.7.0",
-    "render_readme": true,
-    "zip_release": true,
-    "filename": "deltadore_tydom.zip"
+    "render_readme": true
 }
